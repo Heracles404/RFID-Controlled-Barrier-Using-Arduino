@@ -1,0 +1,10 @@
+C:\Users\bncnz\OneDrive\Desktop\MCL 2023-2024 2T\Fundamentals of Dennis\Module 2\Module 2\bin\Debug\Module 2.exe.config
+C:\Users\bncnz\OneDrive\Desktop\MCL 2023-2024 2T\Fundamentals of Dennis\Module 2\Module 2\bin\Debug\Module 2.exe
+C:\Users\bncnz\OneDrive\Desktop\MCL 2023-2024 2T\Fundamentals of Dennis\Module 2\Module 2\bin\Debug\Module 2.pdb
+C:\Users\bncnz\OneDrive\Desktop\MCL 2023-2024 2T\Fundamentals of Dennis\Module 2\Module 2\obj\Debug\Module 2.csproj.AssemblyReference.cache
+C:\Users\bncnz\OneDrive\Desktop\MCL 2023-2024 2T\Fundamentals of Dennis\Module 2\Module 2\obj\Debug\Module_2.Form1.resources
+C:\Users\bncnz\OneDrive\Desktop\MCL 2023-2024 2T\Fundamentals of Dennis\Module 2\Module 2\obj\Debug\Module_2.Properties.Resources.resources
+C:\Users\bncnz\OneDrive\Desktop\MCL 2023-2024 2T\Fundamentals of Dennis\Module 2\Module 2\obj\Debug\Module 2.csproj.GenerateResource.cache
+C:\Users\bncnz\OneDrive\Desktop\MCL 2023-2024 2T\Fundamentals of Dennis\Module 2\Module 2\obj\Debug\Module 2.csproj.CoreCompileInputs.cache
+C:\Users\bncnz\OneDrive\Desktop\MCL 2023-2024 2T\Fundamentals of Dennis\Module 2\Module 2\obj\Debug\Module 2.exe
+C:\Users\bncnz\OneDrive\Desktop\MCL 2023-2024 2T\Fundamentals of Dennis\Module 2\Module 2\obj\Debug\Module 2.pdb
