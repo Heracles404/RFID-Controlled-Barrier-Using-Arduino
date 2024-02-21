@@ -1,6 +1,6 @@
 # RFID-Controlled-Barrier-Using-Arduino
-## Objective: Integrate software, sensors, and hardware for a controlled RFID gate or barrier system.
-## Demonstration (Youtube): https://youtu.be/ZaOVl-oycdk
+### Objective: Integrate software, sensors, and hardware for a controlled RFID gate or barrier system.
+### Demonstration (Youtube): https://youtu.be/ZaOVl-oycdk
 
 ### Components:
 PC to Arduino (Software): C# forms for manual gate control. C# forms for manual light operation. Disable/lock gate (RFID) mechanisms.
