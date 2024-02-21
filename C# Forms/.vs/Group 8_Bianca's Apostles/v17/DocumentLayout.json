@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\group 8_bianca\u0027s apostles\\formsub1lightswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|solutionrelative:group 8_bianca\u0027s apostles\\formsub1lightswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\group 8_bianca\u0027s apostles\\formsub1lightswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|solutionrelative:group 8_bianca\u0027s apostles\\formsub1lightswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\group 8_bianca\u0027s apostles\\formsub1gatecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|solutionrelative:group 8_bianca\u0027s apostles\\formsub1gatecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\group 8_bianca\u0027s apostles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|solutionrelative:group 8_bianca\u0027s apostles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|c:\\users\\rjesc\\onedrive\\desktop\\group 8_bianca\u0027s apostles (design \u002B functions)\\group 8_bianca\u0027s apostles\\formsub2lightstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|solutionrelative:group 8_bianca\u0027s apostles\\formsub2lightstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\group 8_bianca\u0027s apostles\\formsub2gatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|solutionrelative:group 8_bianca\u0027s apostles\\formsub2gatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\group 8_bianca\u0027s apostles\\formaboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|solutionrelative:group 8_bianca\u0027s apostles\\formaboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|c:\\users\\rjesc\\onedrive\\desktop\\group 8_bianca\u0027s apostles (design \u002B functions)\\group 8_bianca\u0027s apostles\\formsub2gatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|solutionrelative:group 8_bianca\u0027s apostles\\formsub2gatestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|c:\\users\\rjesc\\onedrive\\desktop\\group 8_bianca\u0027s apostles (design \u002B functions)\\group 8_bianca\u0027s apostles\\formsub2lightstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|solutionrelative:group 8_bianca\u0027s apostles\\formsub2lightstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\group 8_bianca\u0027s apostles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|solutionrelative:group 8_bianca\u0027s apostles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\group 8_bianca\u0027s apostles\\mdiproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7654-3299-4C6D-A4A7-8DB68C6FECE3}|Group 8_Bianca\u0027s Apostles\\Group 8_Bianca\u0027s Apostles.csproj|solutionrelative:group 8_bianca\u0027s apostles\\mdiproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formsub1GateControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub1GateControl.cs",
+              "RelativeDocumentMoniker": "Group 8_Bianca\u0027s Apostles\\formsub1GateControl.cs",
+              "ToolTip": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub1GateControl.cs [Design]",
+              "RelativeToolTip": "Group 8_Bianca\u0027s Apostles\\formsub1GateControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T07:14:58.513Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formsub1LightSwitch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub1LightSwitch.cs",
+              "RelativeDocumentMoniker": "Group 8_Bianca\u0027s Apostles\\formsub1LightSwitch.cs",
+              "ToolTip": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub1LightSwitch.cs [Design]",
+              "RelativeToolTip": "Group 8_Bianca\u0027s Apostles\\formsub1LightSwitch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T07:33:45.4Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formsub1LightSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub1LightSwitch.cs",
+              "RelativeDocumentMoniker": "Group 8_Bianca\u0027s Apostles\\formsub1LightSwitch.cs",
+              "ToolTip": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub1LightSwitch.cs",
+              "RelativeToolTip": "Group 8_Bianca\u0027s Apostles\\formsub1LightSwitch.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T11:31:10.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\Form1.cs",
+              "RelativeDocumentMoniker": "Group 8_Bianca\u0027s Apostles\\Form1.cs",
+              "ToolTip": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\Form1.cs [Design]",
+              "RelativeToolTip": "Group 8_Bianca\u0027s Apostles\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T07:02:22.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formsub2LightStatus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub2LightStatus.cs",
+              "RelativeDocumentMoniker": "Group 8_Bianca\u0027s Apostles\\formsub2LightStatus.cs",
+              "ToolTip": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub2LightStatus.cs [Design]",
+              "RelativeToolTip": "Group 8_Bianca\u0027s Apostles\\formsub2LightStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T07:55:28.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formsub2GateStatus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub2GateStatus.cs",
+              "RelativeDocumentMoniker": "Group 8_Bianca\u0027s Apostles\\formsub2GateStatus.cs",
+              "ToolTip": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub2GateStatus.cs [Design]",
+              "RelativeToolTip": "Group 8_Bianca\u0027s Apostles\\formsub2GateStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T07:33:54.049Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formAboutUs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formAboutUs.cs",
+              "RelativeDocumentMoniker": "Group 8_Bianca\u0027s Apostles\\formAboutUs.cs",
+              "ToolTip": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formAboutUs.cs [Design]",
+              "RelativeToolTip": "Group 8_Bianca\u0027s Apostles\\formAboutUs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T06:37:37.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\Form1.cs",
+              "RelativeDocumentMoniker": "Group 8_Bianca\u0027s Apostles\\Form1.cs",
+              "ToolTip": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\Form1.cs",
+              "RelativeToolTip": "Group 8_Bianca\u0027s Apostles\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T10:35:20.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mdiProperties.cs",
+              "DocumentMoniker": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\mdiProperties.cs",
+              "RelativeDocumentMoniker": "Group 8_Bianca\u0027s Apostles\\mdiProperties.cs",
+              "ToolTip": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\mdiProperties.cs",
+              "RelativeToolTip": "Group 8_Bianca\u0027s Apostles\\mdiProperties.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T05:36:09.173Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "9fc420ef-ebe3-40b1-9148-687ce8b8d6cd",
+        "Display": 0,
+        "X": 37,
+        "Y": 233,
+        "Width": 704,
+        "Height": 785,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "formsub2LightStatus.cs",
+              "DocumentMoniker": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub2LightStatus.cs",
+              "RelativeDocumentMoniker": "Group 8_Bianca\u0027s Apostles\\formsub2LightStatus.cs",
+              "ToolTip": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub2LightStatus.cs",
+              "RelativeToolTip": "Group 8_Bianca\u0027s Apostles\\formsub2LightStatus.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T08:00:19.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "43cfff40-e7cd-4392-905e-9729595ced66",
+        "Display": 0,
+        "X": 1219,
+        "Y": 87,
+        "Width": 706,
+        "Height": 786,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "formsub2GateStatus.cs",
+              "DocumentMoniker": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub2GateStatus.cs",
+              "RelativeDocumentMoniker": "Group 8_Bianca\u0027s Apostles\\formsub2GateStatus.cs",
+              "ToolTip": "C:\\Users\\rjesc\\OneDrive\\Desktop\\Group 8_Bianca\u0027s Apostles (Design \u002B Functions)\\Group 8_Bianca\u0027s Apostles\\formsub2GateStatus.cs",
+              "RelativeToolTip": "Group 8_Bianca\u0027s Apostles\\formsub2GateStatus.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwCwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T05:14:38.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

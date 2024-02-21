@@ -1,0 +1,108 @@
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe.config
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.AssemblyReference.cache
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Properties.Resources.resources
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.GenerateResource.cache
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.CoreCompileInputs.cache
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Form1.resources
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.dll
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.xml
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group 8_.0966A402.Up2Date
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formAboutUs.resources
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1GateControl.resources
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1LightSwitch.resources
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2GateStatus.resources
+C:\Users\rjesc\OneDrive\Desktop\Recycle Bin\DM Projects\Group 8_Bianca's Apostles\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2LightStatus.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe.config
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.dll
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.xml
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.AssemblyReference.cache
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Form1.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formAboutUs.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1GateControl.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1LightSwitch.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2GateStatus.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2LightStatus.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Properties.Resources.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.GenerateResource.cache
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.CoreCompileInputs.cache
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group 8_.0966A402.Up2Date
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (FINISHED)\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe.config
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.dll
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.xml
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.AssemblyReference.cache
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Form1.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formAboutUs.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1GateControl.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1LightSwitch.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2GateStatus.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2LightStatus.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Properties.Resources.resources
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.GenerateResource.cache
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.CoreCompileInputs.cache
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group 8_.0966A402.Up2Date
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\rjesc\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions)\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe.config
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.dll
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.xml
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.AssemblyReference.cache
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Form1.resources
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formAboutUs.resources
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1GateControl.resources
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1LightSwitch.resources
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2GateStatus.resources
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2LightStatus.resources
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Properties.Resources.resources
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.GenerateResource.cache
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.CoreCompileInputs.cache
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.CopyComplete
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\bncnz\Downloads\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles (Design + Functions) - 1\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe.config
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.dll
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.xml
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.AssemblyReference.cache
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Form1.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formAboutUs.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1GateControl.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1LightSwitch.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2GateStatus.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2LightStatus.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Properties.Resources.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.GenerateResource.cache
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.CoreCompileInputs.cache
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.CopyComplete
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 3\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe.config
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.dll
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.xml
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.AssemblyReference.cache
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Form1.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formAboutUs.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1GateControl.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1LightSwitch.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2GateStatus.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2LightStatus.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Properties.Resources.resources
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.GenerateResource.cache
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.CoreCompileInputs.cache
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.CopyComplete
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.pdb
