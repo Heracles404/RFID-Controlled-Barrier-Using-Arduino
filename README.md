@@ -5,7 +5,7 @@
 ### Components:
 
 ### Arduino to PC (Sensor):
-Gate status updates (up/down or open/close). RFID validation.
+Gate status updates (up/down or open/close).
 LEDs / lights status (ON or OFF).
 
 ### PC to Arduino (Software):
