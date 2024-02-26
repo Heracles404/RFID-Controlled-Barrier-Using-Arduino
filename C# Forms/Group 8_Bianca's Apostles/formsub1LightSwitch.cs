@@ -26,7 +26,7 @@ namespace Group_8_Bianca_s_Apostles
 
         private void btnLightOn_Click(object sender, EventArgs e)
         {
-            // On Light - '1'
+            // On Light 
             serialPort1.Open();
             serialPort1.Write("ON");
             serialPort1.Close();
@@ -35,9 +35,17 @@ namespace Group_8_Bianca_s_Apostles
 
         private void btnLightOff_Click(object sender, EventArgs e)
         {
-            // Off Light - '0'
+            // Off Light
             serialPort1.Open();
             serialPort1.Write("OFF");
+            serialPort1.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // Autolights
+            serialPort1.Open();
+            serialPort1.Write("AUTO");
             serialPort1.Close();
         }
     }

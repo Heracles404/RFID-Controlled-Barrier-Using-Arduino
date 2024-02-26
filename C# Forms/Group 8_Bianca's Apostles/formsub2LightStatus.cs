@@ -1,5 +1,7 @@
 ﻿using System.Windows.Forms;
 using System;
+using System.IO.Ports;
+using System.Linq;
 
 namespace Group_8_Bianca_s_Apostles
 {
@@ -7,17 +9,25 @@ namespace Group_8_Bianca_s_Apostles
     {
         public formsub2LightStatus()
         {
-            InitializeComponent();
-            // Initialize the serial port
-            //serialPort1.PortName = "COM9"; // Set the correct COM port
-            //serialPort1.BaudRate = 9600;   // Set the correct baud rate
+        InitializeComponent();
+        // Initialize the serial port
+        // serialPort1.PortName = "COM9"; // Set the correct COM port
+        // serialPort1.BaudRate = 9600;   // Set the correct baud rate
+        }
+
+        public void CloseSerialPort()
+        {
+            if (serialPort1.IsOpen)
+            {
+                serialPort1.Close();
+            }
         }
 
         private void form2LightStatus_Load(object sender, EventArgs e)
         {
             this.ControlBox = false;
             // Start the timer when the form loads
-            // timerLightStatus.Start();
+            timerLightStatus.Start();
         }
 
         private void timerLightStatus_Tick(object sender, EventArgs e)
@@ -25,32 +35,39 @@ namespace Group_8_Bianca_s_Apostles
             // Check if the serial port is closed before opening it
             if (!serialPort1.IsOpen)
             {
-                serialPort1.Open();
-                // Read data if available
-                string s = serialPort1.ReadExisting().ToString();
-
-                Console.WriteLine("Received data: " + s); // Debug statement
-
-                if (!string.IsNullOrEmpty(s))
+                try
                 {
-                    // Update the label based on the received data
-                    if (s.Contains("ON"))
+                    serialPort1.Open();
+                    // Read data if available
+                    string s = serialPort1.ReadExisting().ToString();
+
+                    Console.WriteLine("Received data: " + s); // Debug statement
+
+                    if (!string.IsNullOrEmpty(s))
                     {
-                        labelLightStatus.Text = "Light is ON!";
-                    }
-                    else if (s.Contains("OFF"))
-                    {
-                        labelLightStatus.Text = "Light is OFF!";
-                    }
-                    else
-                    {
-                        Console.WriteLine("Unknown data received: " + s); // Debug statement
+                        // Update the label based on the received data
+                        if (s.Contains("ON"))
+                        {
+                            labelLightStatus.Text = "Light is ON!";
+                        }
+                        else if (s.Contains("OFF"))
+                        {
+                            labelLightStatus.Text = "Light is OFF!";
+                        }
+                        else
+                        {
+                            Console.WriteLine("Unknown data received: " + s); // Debug statement
+                        }
                     }
                 }
-
-                // Close the serial port after reading
-                serialPort1.Close();
+                finally
+                {
+                    // Close the serial port after reading
+                    serialPort1.Close();
+                }
             }
+
+            serialPort1.Close();
         }
 
         private void label2_Click(object sender, EventArgs e)

@@ -18,25 +18,57 @@ namespace Group_8_Bianca_s_Apostles
             InitializeComponent();
         }
 
+        public void CloseSerialPort()
+        {
+            if (serialPort1.IsOpen)
+            {
+                serialPort1.Close();
+            }
+        }
+
         private void form2GateStatus_Load(object sender, EventArgs e)
         {
             this.ControlBox = false;
+            serialPort1.Open();
         }
 
         private void timerGateStatus_Tick(object sender, EventArgs e)
         {
-            serialPort1.Open();
-            string s = serialPort1.ReadExisting().ToString();
-
-
-            if (s.Contains("UP"))
+            // Check if the serial port is closed before opening it
+            if (!serialPort1.IsOpen)
             {
-                labelGateStatus.Text = "GATE is: OPEN!";
+                try
+                {
+                    serialPort1.Open();
+                    // Read data if available
+                    string s = serialPort1.ReadExisting().ToString();
+
+                    Console.WriteLine("Received data: " + s); // Debug statement
+
+                    if (!string.IsNullOrEmpty(s))
+                    {
+                        // Update the label based on the received data
+                        if (s.Contains("UP"))
+                        {
+                            labelGateStatus.Text = "Gate is OPEN!";
+                        }
+                        else if (s.Contains("DOWN"))
+                        {
+                            labelGateStatus.Text = "Gate is CLOSED!";
+                        }
+                        else
+                        {
+                            Console.WriteLine("Unknown data received: " + s); // Debug statement
+                        }
+                    }
+                }
+                finally
+                {
+                    // Close the serial port after reading
+                    serialPort1.Close();
+                }
             }
-            else if (s.Contains("DOWN"))
-            {
-                labelGateStatus.Text = "GATE is: CLOSED!";
-            }
+
             serialPort1.Close();
         }
 

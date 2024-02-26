@@ -62,9 +62,9 @@
             this.labelGateStatus.Location = new System.Drawing.Point(591, 411);
             this.labelGateStatus.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelGateStatus.Name = "labelGateStatus";
-            this.labelGateStatus.Size = new System.Drawing.Size(105, 37);
+            this.labelGateStatus.Size = new System.Drawing.Size(242, 37);
             this.labelGateStatus.TabIndex = 1;
-            this.labelGateStatus.Text = "Gate is ";
+            this.labelGateStatus.Text = "Gates not initiated.";
             this.labelGateStatus.Click += new System.EventHandler(this.labelGateStatus_Click);
             // 
             // label3

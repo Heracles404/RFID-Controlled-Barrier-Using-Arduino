@@ -106,3 +106,21 @@ C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) -
 C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.CopyComplete
 C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.exe
 C:\Users\bncnz\OneDrive\Desktop\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles (Design + Functions) - 4\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.AssemblyReference.cache
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Form1.resources
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formAboutUs.resources
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1GateControl.resources
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub1LightSwitch.resources
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2GateStatus.resources
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.formsub2LightStatus.resources
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group_8_Bianca_s_Apostles.Properties.Resources.resources
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.GenerateResource.cache
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.CoreCompileInputs.cache
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe.config
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.exe
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\bin\Debug\Group 8_Bianca's Apostles.pdb
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.dll
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\bin\Debug\ReaLTaiizor.xml
+C:\Users\bncnz\OneDrive\Desktop\RFID-Controlled-Barrier-Using-Arduino\C# Forms\Group 8_Bianca's Apostles\obj\Debug\Group 8_Bianca's Apostles.csproj.CopyComplete

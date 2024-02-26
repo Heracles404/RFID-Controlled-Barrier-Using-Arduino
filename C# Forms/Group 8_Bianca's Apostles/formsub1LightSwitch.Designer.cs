@@ -33,6 +33,7 @@
             this.btnLightOn = new System.Windows.Forms.Button();
             this.btnLightOff = new System.Windows.Forms.Button();
             this.serialPort1 = new System.IO.Ports.SerialPort(this.components);
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnLightOn
@@ -41,7 +42,7 @@
             this.btnLightOn.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLightOn.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnLightOn.Location = new System.Drawing.Point(375, 305);
-            this.btnLightOn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnLightOn.Margin = new System.Windows.Forms.Padding(2);
             this.btnLightOn.Name = "btnLightOn";
             this.btnLightOn.Size = new System.Drawing.Size(133, 72);
             this.btnLightOn.TabIndex = 1;
@@ -55,7 +56,7 @@
             this.btnLightOff.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLightOff.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnLightOff.Location = new System.Drawing.Point(1114, 411);
-            this.btnLightOff.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnLightOff.Margin = new System.Windows.Forms.Padding(2);
             this.btnLightOff.Name = "btnLightOff";
             this.btnLightOff.Size = new System.Drawing.Size(133, 72);
             this.btnLightOff.TabIndex = 2;
@@ -67,6 +68,20 @@
             // 
             this.serialPort1.PortName = "COM9";
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.RosyBrown;
+            this.button1.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.button1.Location = new System.Drawing.Point(692, 176);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(106, 63);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "AUTO";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // formsub1LightSwitch
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -74,10 +89,11 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1211, 722);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnLightOff);
             this.Controls.Add(this.btnLightOn);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "formsub1LightSwitch";
             this.ShowIcon = false;
             this.Text = "sub1LightSwitch";
@@ -90,5 +106,6 @@
         private System.Windows.Forms.Button btnLightOn;
         private System.Windows.Forms.Button btnLightOff;
         private System.IO.Ports.SerialPort serialPort1;
+        private System.Windows.Forms.Button button1;
     }
 }

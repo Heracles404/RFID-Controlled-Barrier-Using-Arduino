@@ -39,6 +39,5 @@ namespace Group_8_Bianca_s_Apostles
             serialPort1.Close();
         }
 
-
     }
 }

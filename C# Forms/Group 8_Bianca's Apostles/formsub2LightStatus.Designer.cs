@@ -102,9 +102,9 @@
             this.labelLightStatus.Location = new System.Drawing.Point(591, 411);
             this.labelLightStatus.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelLightStatus.Name = "labelLightStatus";
-            this.labelLightStatus.Size = new System.Drawing.Size(102, 37);
+            this.labelLightStatus.Size = new System.Drawing.Size(246, 37);
             this.labelLightStatus.TabIndex = 4;
-            this.labelLightStatus.Text = "Light is";
+            this.labelLightStatus.Text = "Lights not initiated.";
             this.labelLightStatus.Click += new System.EventHandler(this.labelLightStatus_Click);
             // 
             // timerLightStatus

@@ -36,6 +36,20 @@ namespace Group_8_Bianca_s_Apostles
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.WindowState = FormWindowState.Maximized;
+
+            if (FORMAboutUs == null)
+            {
+                FORMAboutUs = new formAboutUs();
+                FORMAboutUs.FormClosed += AboutUs_FormClosed;
+                FORMAboutUs.MdiParent = this;
+                FORMAboutUs.Dock = DockStyle.Fill;
+                FORMAboutUs.Show();
+            }
+            else
+            {
+                FORMAboutUs.Activate();
+            }
         }
 
         bool controlExpand = false;
