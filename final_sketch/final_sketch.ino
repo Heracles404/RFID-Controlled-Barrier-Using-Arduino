@@ -39,7 +39,8 @@ String remoteGate;
 byte knownUIDs[][4] = {
   {0x83, 0x56, 0xD7, 0x0F},
   {0x23, 0xF1, 0xB0, 0x0D},
-  {0xE6, 0x23, 0xFF, 0x03} 
+  {0xE6, 0x23, 0xFF, 0x03} ,
+  {0x4E, 0x90, 0x66, 0x3F}
 };
 
 
@@ -55,8 +56,6 @@ void setup() {
 
   SPI.begin();      
   mfrc522.PCD_Init();
-
-  pinMode(RFID_POWER, OUTPUT);   // Initialize the digital pin as an output
 
   lcd.init();       // initialize the LCD 
   lcd.backlight();
@@ -105,7 +104,6 @@ void loop(){
       Serial.println("unknown");
     }
   }  
-
 }
 
 
@@ -135,8 +133,6 @@ void gateControl(){
 }
 
 void gateClosed(){
-  delay(1500);
-
   digitalWrite(R, HIGH);
   lcd.clear();                  // clear the screen
   lcd.setCursor(5, 1);          // set the cursor to the top-left corner
@@ -158,6 +154,8 @@ void gateOpen(){
   lcd.clear();                  // clear the screen
   lcd.setCursor(3, 1);          // set the cursor to the top-left corner
   lcd.print("WELCOME!");        // print "WELCOME!" to the LCD
+
+  delay(2500);
 
   carPresence();
 }
@@ -181,10 +179,10 @@ void carPresence(){
   // Calculating the distance
   distance = duration * 0.034 / 2;
   // Prints the distance on the Serial Monitor
-  // Serial.print("Distance: ");
-  // Serial.println(distance);
+  Serial.print("Distance: ");
+  Serial.println(distance);
 
-  if (distance > 8){
+  if (distance >= 9){
     gateClosed();
   }
 }
