@@ -34,6 +34,8 @@ String remoteGate;
 
 // Lights
 #define lights 30
+#define LDR 47
+bool automatic_lights;
 
 // Define the list of UIDs
 byte knownUIDs[][4] = {
@@ -51,6 +53,7 @@ void setup() {
   pinMode(echoPin, INPUT); // Sets the echoPin as an Input
 
   pinMode(lights, OUTPUT);
+  pinMode(LDR, INPUT);
 
   myservo.attach(23);  // attaches the servo on pin 9 to the servo object
 
@@ -65,25 +68,39 @@ void setup() {
   pinMode(G, OUTPUT);  // Initialize the digital pin as an output
 
   gateClosed();
-  lightOff();
+  automatic_lights = true;
 }
 
 void loop(){
+  if (automatic_lights) {
+    autoLights();
+  }
+
   if(Serial.available() > 0){
     String command = Serial.readStringUntil('\n'); // Read the command from Serial
     command.trim(); // Remove leading and trailing whitespaces
 
-    if(command.equals("UP"))
+    if(command.equals("UP")){
       gateOpen();
-    else if(command.equals("DOWN"))
+    }
+    else if(command.equals("DOWN")){
       gateClosed();
-    else if(command.equals("ON"))
+    }
+    else if(command.equals("AUTO")){
+      autoLights();
+    }
+    else if(command.equals("ON")){
+      automatic_lights = false; 
       lightOn();
-    else if(command.equals("OFF"))
+    }
+    else if(command.equals("OFF")){
+      automatic_lights = false; 
       lightOff();
+    } 
+
   }
   
-  carPresence();
+  // carPresence();
 
   if (mfrc522.PICC_IsNewCardPresent() && mfrc522.PICC_ReadCardSerial()) {
     if (isKnownUID(mfrc522.uid.uidByte)) {
@@ -103,7 +120,7 @@ void loop(){
     }else{
       Serial.println("unknown");
     }
-  }  
+  }
 }
 
 
@@ -116,6 +133,17 @@ void lightOn(){
 void lightOff(){
     digitalWrite(lights, LOW);
     Serial.println("OFF");
+}
+
+void autoLights(){
+  automatic_lights = true; 
+  int lightAmount = digitalRead(LDR);
+
+  if(lightAmount == HIGH){
+    lightOn();
+  }else{
+    lightOff();
+  }  
 }
 
 // Barrier - UP or DOWN
@@ -179,8 +207,8 @@ void carPresence(){
   // Calculating the distance
   distance = duration * 0.034 / 2;
   // Prints the distance on the Serial Monitor
-  Serial.print("Distance: ");
-  Serial.println(distance);
+  // Serial.print("Distance: ");
+  // Serial.println(distance);
 
   if (distance >= 9){
     gateClosed();
